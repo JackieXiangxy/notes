@@ -276,7 +276,7 @@ OPTIONS说明：
 
 ### 9、port
 
-** docker port : **列出指定的容器的端口映射，或者查找将PRIVATE_PORT NAT到面向公众的端口。
+**docker port :**列出指定的容器的端口映射，或者查找将PRIVATE_PORT NAT到面向公众的端口。
 
 语法
 
